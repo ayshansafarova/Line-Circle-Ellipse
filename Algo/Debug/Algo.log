@@ -1,0 +1,18 @@
+﻿  drawingMethods.cpp
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(45): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(49): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(102): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(129): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(193): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\toghrul\source\repos\algo\algo\drawingmethods.cpp(209): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+c:\users\toghrul\source\repos\algo\algo\source.cpp(103): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  Algo.vcxproj -> C:\Users\toghrul\source\repos\Algo\Debug\Algo.exe
