@@ -1,3 +1,4 @@
 # Line-Circle-Ellipse
 university task
-##C++ with OpenGL library
+
+in C++ with OpenGL library
